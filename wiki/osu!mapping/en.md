@@ -11,21 +11,21 @@ tags:
 
 # osu!mapping
 
-*Not to be confused with [Beatmapping](/wiki/Beatmapping).*
+*ไม่ให้สับสนกับ [Beatmapping](/wiki/Beatmapping).*
 
-**osu!mapping** is a weekly video series created by ![](/wiki/shared/flag/US.gif) **[pishifat](https://osu.ppy.sh/users/3178418)** about the [mapping](/wiki/Beatmapping) and [modding](/wiki/Modding) ecosystem. It is hosted on [pishifat's personal YouTube channel](https://www.youtube.com/user/Pishifat), and most people know it as just "pishifat videos" or "pishi videos".
+**osu!mapping** คือวิดีโอซีรี่ส์ที่สร้างโดย ![](/wiki/shared/flag/US.gif) **[pishifat](https://osu.ppy.sh/users/3178418)** ที่เกี่ยวกับระบบการ [mapping](/wiki/Beatmapping) และ [modding](/wiki/Modding) สามารถหาดูได้ที่[ช่องยูทูปส่วนตัวของ pishifat](https://www.youtube.com/user/Pishifat), คนส่วนใหญ่ก็เรียกกันว่า "pishifat videos" หรือ "pishi videos".
 
-The series has become so well-known in the osu! community that it is a commonly recommended resource to newer mappers. The [osu! team](/wiki/People/The_Team) awarded pishifat the [Community Contributor](/wiki/People/Community_Contributors) badge for "exemplary performance in beatmap construction and education" as thanks for his effort put into this project.
+ซีรี่ส์วิดีโอนี้ได้รับกันสนใจและรู้จักกันอย่างกว้างขวางมากจนถึงได้รับการแนะนำให้เป็นวิดีโอที่เหมาะสำหรับ mapper มือใหม่. [osu! team](/wiki/People/The_Team) ได้ให้ badge [Community Contributor](/wiki/People/Community_Contributors) กับ pishifat สำหรับการ "เป็นแบบอย่างที่ดีมากในการสร้าง และให้การศึกษาในการทำ beatmap" แทนความขอบคุณที่ลงทุนทำงานนี้อย่างสุดฝีมือ
 
-osu!mapping's regularly scheduled uploads ended in January 2019, but there are still plans to add to the series later.
+ตารางการอัปวิดีโอของ osu!mapping จบแล้วตอนมกราคม 2562, แต่ยังมีแผนที่จะอัปโหลดวิดีโอต่อในอนาคต.
 
-## Links
+## ลิงก์
 
 - **[YouTube channel](https://www.youtube.com/user/Pishifat)**
 - [Patreon](https://www.patreon.com/pishifat) (currently closed)
 - [Twitter](https://twitter.com/pishifat)
 
-## History
+## ประวัติ
 
 osu!mapping began as a response to [a reddit post](https://www.reddit.com/r/osugame/comments/4upysl/request_for_mappers_of_this_sub/) asking mappers to create mapping commentary videos. On 2016-07-31, pishifat uploaded the first video: [osu!mapping: concepts](https://www.youtube.com/watch?v=oL3az8FhlB4). In the video, he explains how he was going to create the commentary like the redditor suggested, but ultimately decided against it because a straight thought-process commentary of mapping would not do a good job of introducing new mappers to the wide variety of mapping concepts. Instead, he chose to start a video series where each episode would focus on a specific concept, digging into their usages and importance separately.
 
